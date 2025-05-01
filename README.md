@@ -1,6 +1,6 @@
 # SpaceX Launch Tracker 
 
-This project is a SpaceX Launch Tracker application built with React, Next.js, and Material-UI. It displays detailed information about SpaceX launches, including mission names, dates, statuses, and more. The project was enhanced and tested as part of a coding challenge.
+This project is a SpaceX Launch Tracker application built with React, Next.js, and Material-UI. It displays detailed information about SpaceX launches, including mission names, dates, statuses, and more. 
 
 ## 📸 Screenshot
 
